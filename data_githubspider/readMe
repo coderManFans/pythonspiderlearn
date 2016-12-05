@@ -1,5 +1,3 @@
-# pythonspiderlearn
-Python爬虫，数据分析脚本学习
 存放爬取github数据的爬虫脚本，原则
 1.代码需要经过测试，并且可以在生产环境中使用后方可并入该项目
 2.该代码与data_csdn_github模块有关，可能不适用于其他分析脚本
